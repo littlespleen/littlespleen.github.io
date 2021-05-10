@@ -1,7 +1,7 @@
 # littlespleen.github.io
 Raspberry Pi 4 powered laptop
 
-Test [Keyboard and trackpad](\keybaord.md)
+Test [Keyboard and trackpad](keyboard.md)
 
 #List of components
 
