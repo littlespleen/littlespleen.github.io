@@ -1,6 +1,8 @@
 # littlespleen.github.io
 Raspberry Pi 4 powered laptop
 
+Test [Keyboard and trackpad](/keybaord.md)
+
 #List of components
 
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
