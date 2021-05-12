@@ -13,10 +13,11 @@ Raspberry Pi 4 powered laptop
 # Todo / Open issues
 1. Have not yet connected the old USB ports / Ethernetport. Have to make room for a USB hub
 2. Add second Lithium Cell
-3. Charging USB-C is working but need to switch of the RPI casue the power drops too low.
+3. Need to connect the speakers to the audio out on the lcd driver board.
+4. Charging USB-C is working but need to switch of the RPI casue the power drops too low.
     - Also when USB-C is connected the powerbank IC shuts the power for a short time.
     - Will add some capacitor/batttery to survive a charge cable connect
-4. Micro SD extender is glitchy not reliable.
+5. Micro SD extender is glitchy not reliable.
 
 # List of hardware components
 
