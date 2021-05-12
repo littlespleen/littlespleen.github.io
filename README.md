@@ -10,6 +10,9 @@ Raspberry Pi 4 powered laptop
 
 [LCD controller](lcdcontroller.md)
 
+# Booting the thing
+[![Youtube link](video2.jpeg)](https://www.youtube.com/watch?v=q96JgvMsuWc "Macbook Pi")
+
 # Todo / Open issues
 1. Have not yet connected the old USB ports / Ethernetport. Have to make room for a USB hub
 2. Add second Lithium Cell
