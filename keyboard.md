@@ -15,3 +15,7 @@ Appletouch [driver](https://github.com/raspberrypi/linux/tree/rpi-5.10.y/drivers
 
 Blogger showing pinouts [bounav](https://bounav.wordpress.com/2009/02/28/macbook-pro-trackpad-conversion)
 
+
+![ ](https://i.imgur.com/e6CBXZv.jpg)
+
+Glued power indicator from powerbank on the keyboard
