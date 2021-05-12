@@ -1,7 +1,7 @@
 # littlespleen.github.io
 Raspberry Pi 4 powered laptop
 
-![USB connection](https://i.imgur.com/K69xP9V.jpg)
+![Main](https://i.imgur.com/K69xP9V.jpg)
 
 # Keyboard and trackpad
 [Keyboard and trackpad](keyboard.md)
@@ -26,3 +26,22 @@ Sorry for swedish links
 [https://www.electrokit.com/produkt/anslutningskort-usb-c/](https://www.electrokit.com/produkt/anslutningskort-usb-c/)
 
 
+![1](https://i.imgur.com/5fGqldD.jpg)
+
+Early progress
+
+![2](https://i.imgur.com/4OFXKN0.jpg)
+
+Cutting the main logicboard to use USB ports and ehternetport
+
+![3](https://i.imgur.com/3yh7kzn.jpg)
+
+Powerbank internals
+
+![4](https://i.imgur.com/OmeSLFQ.jpg)
+
+Early test
+
+![5]()
+
+![6]()
