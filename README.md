@@ -6,6 +6,10 @@ Raspberry Pi 4 powered laptop
 # Keyboard and trackpad
 [Keyboard and trackpad](keyboard.md)
 
+# LCD controller M.NT68676.2
+
+[LCD controller](lcdcontroller.md)
+
 # List of hardware components
 
 Sorry for swedish links
